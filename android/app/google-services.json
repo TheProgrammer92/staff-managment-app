@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "387729907989",
+    "firebase_url": "https://staff-management-fa738.firebaseio.com",
+    "project_id": "staff-management-fa738",
+    "storage_bucket": "staff-management-fa738.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387729907989:android:7624b9e3475e32471bc91c",
+        "android_client_info": {
+          "package_name": "com.example.staff_management_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387729907989-67lh5d6dode9bqv8erc41ca0ltipm3sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhE6DxymRonJ_ED8KxNaThRuPIVsBFmAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387729907989-67lh5d6dode9bqv8erc41ca0ltipm3sf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
